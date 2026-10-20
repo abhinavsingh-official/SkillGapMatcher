@@ -1,0 +1,14 @@
+streamlit==1.38.0
+pandas==2.3.3
+numpy==2.5.4
+scikit-learn==1.9.1
+spacy==3.8.16
+nltk==3.10.3
+pdfminer.six==20260107
+docx2txt==0.9
+python-dateutil==2.9.0.post0
+pytest==9.1.1
+
+# After installing the above, also run:
+#   python -m spacy download en_core_web_sm
+#   python -c "import nltk; nltk.download('stopwords')"
